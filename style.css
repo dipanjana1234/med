@@ -1,0 +1,238 @@
+.headerimg img{
+    max-height:10%; 
+    width: 100%;
+}
+
+
+
+
+.container{
+     background-color: rgb(248, 248, 248);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-top: 30px;
+}
+.containerbox{
+   text-align: center;
+margin: 20px;
+padding: 15px;
+   
+}
+.containerbox img{
+width: 79px;
+height: 79px;
+align-items: center;
+
+}
+
+
+.containerbox h3{
+text-align: center;
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+/* margin-left: 15px; */
+color: #526872;
+
+}
+
+
+.containerbox h4{
+
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+
+text-align: center;
+
+color: #3D5560;
+}
+.oppor{
+   background-color: rgb(231, 228, 228);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+  
+   }
+   .oppor h2{
+      
+width: 353px;
+height: 106px;
+left: 245px;
+top: 1481px;
+
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 117.9%;
+
+
+
+color: #3D5560;
+
+   }
+   .oppor h4{
+      width: 589px;
+height: 57px;
+left: 755px;
+top: 1494px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+
+
+color: #3D5560;
+
+   }
+
+   .opporbox{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 550px;
+   }
+.opporbox1{
+   max-height: 350px;
+max-width: 250px;
+border-style: solid;
+border-color: beige;
+  border-width: 0.5px;
+background-color: rgb(247, 244, 244); 
+   margin: 20px;
+   padding: 15px;
+ 
+}
+
+
+.opporbox1 img{
+max-width: 50px;
+max-height: 50px;
+padding: 5px;
+margin-left: 5px;
+}
+.boximg{
+   display: flex;
+ 
+   align-items: center;
+  
+
+
+
+}
+.opporbox1 button{
+   width: 100%;
+   height: 35px;
+background-color: blue;
+color: aliceblue;
+margin-bottom: 10px;
+border-radius: 5px;
+
+}
+.button1 button{
+   width: 100%;
+   height: 35px;
+background-color: rgb(255, 18, 30);
+color: rgb(255, 255, 255);
+margin-bottom: 10px;
+border-radius: 5px;
+  
+}
+
+
+.opporbox1 h3{
+   margin-top: 5px;
+   margin-left: 5px;
+   font-size: 30px;
+   font-family: 'Spartan';
+   font-style: normal;
+
+}
+.opporbox1 h4{
+   font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 145.9%;
+
+
+
+color: #526872;
+
+}
+.nursing{
+   text-align: center;
+}
+.nursing h3{
+   font-family: 'Georgia';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 117.9%;
+text-align: center;
+
+color: #3D5560
+}
+.nursing span{
+   font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+
+
+
+text-align: center;
+
+color: #3D5560;
+
+
+}
+.nursing1{
+   max-height: 350px;
+   max-width: 250px;
+   border-style: solid;
+   border-color: antiquewhite;
+     border-width: 0.5px;
+   background-color: rgb(247, 244, 244); 
+      margin: 20px;
+      padding: 2px;
+     }
+     .nursing1 img{
+      width: 332px;
+height: 220px;
+left: 245px;
+top: 3083px;
+border-radius: 2px;
+      
+      }
+      .nursingtips{
+         display: flex;
+         align-items: center;
+         justify-content: center;
+      }
+      .nursing1 button{
+        
+      background-color: rgb(12, 12, 134);
+      color: aliceblue;
+   }
+   .ul{
+   
+list-style-type: none;
+}
+.li {
+   display: inline;
+ }
+
+
+
+
+   
